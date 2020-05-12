@@ -1,7 +1,7 @@
 ## Data Science Blog Post:
 
  
-You can read my Medium Blog Post HERE:**[Stack Overflow Developer Survey 2019: Key Trends](https://medium.com/@DhananjayYelwande/stack-overflow-developer-survey-2019-key-trends-9042f73d5acc)**
+You can read my Medium Blog Post HERE: **[Stack Overflow Developer Survey 2019: Key Trends](https://medium.com/@DhananjayYelwande/stack-overflow-developer-survey-2019-key-trends-9042f73d5acc)**
 
 **Libraries:**
 
