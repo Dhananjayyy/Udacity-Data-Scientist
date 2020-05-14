@@ -1,4 +1,3 @@
------
 ## Data Science Blog Post:
 
 You can read my Medium Blog Post HERE: **[Stack Overflow Developer Survey 2019: Key Trends](https://medium.com/@DhananjayYelwande/stack-overflow-developer-survey-2019-key-trends-9042f73d5acc)**
@@ -45,5 +44,3 @@ After I did the analysis, these are the conclusion I found:
 **Notes:**
 
 You can download the data from kaggle. Link: [Stack Overflow Developer Survey 2019: Data](https://www.kaggle.com/mchirico/stack-overflow-developer-survey-results-2019)
-
------
