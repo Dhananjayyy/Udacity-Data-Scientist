@@ -1,1 +1,1 @@
-## The Udacity Data Scientist Nanodegree Projects
+## The Udacity Data Scientist Nanodegree
