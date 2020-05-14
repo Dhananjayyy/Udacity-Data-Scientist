@@ -43,4 +43,4 @@ After I did the analysis, these are the conclusion I found:
 
 **Notes:**
 
-You can download the data from kaggle. Link: [Stack Overflow Developer Survey 2019: Data](https://www.kaggle.com/mchirico/stack-overflow-developer-survey-results-2019)
+- You can download the data from kaggle. Link: [Stack Overflow Developer Survey 2019: Data](https://www.kaggle.com/mchirico/stack-overflow-developer-survey-results-2019)
