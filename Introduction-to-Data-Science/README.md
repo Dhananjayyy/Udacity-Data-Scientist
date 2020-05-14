@@ -3,7 +3,9 @@
  
 You can read my Medium Blog Post HERE: **[Stack Overflow Developer Survey 2019: Key Trends](https://medium.com/@DhananjayYelwande/stack-overflow-developer-survey-2019-key-trends-9042f73d5acc)**
 
-**Libraries:**
+----
+
+**Libraries Used:**
 
 To be able to run this notebook, you need to install these libraries:
 
@@ -30,8 +32,12 @@ After I did the analysis, these are the conclusion I found:
     The United States, followed by United kingdom gives by far the highest of salaries of any nation.
     Surprisingly, jQuery is the web framework of choice.
 
+**Files Used:**
+   `StackOverflow2019Survey.ipynb: The main project file is an ipython notebook.Contains code.
+    stack-overflow-developer-survey-results-2019.zip: Contains the Stack Overflow 2019 Survey Data in ".csv" format. Includes 
+    two files.`
+
+
 **Notes:**
 
 You can download the data from kaggle. Link: [Stack Overflow Developer Survey 2019: Data](https://www.kaggle.com/mchirico/stack-overflow-developer-survey-results-2019)
-
-The data is included in the zip file as well.
